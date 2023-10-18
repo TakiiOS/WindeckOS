@@ -3,7 +3,7 @@
 ## Overview
 
 Ce projet vise à fournir une version personnalisée de Windows 10 22H2 & [Atlas](https://github.com/Atlas-OS/Atlas) optimisée spécifiquement pour l'utilisation avec le Steam Deck. Le système est livré avec plusieurs fonctionnalités et améliorations pour offrir une expérience de jeu optimale.
-
+***
 ## Features
 
 - **Windows 10 22H2**: Dernière version de Windows pour assurer la compatibilité et les dernières fonctionnalités.
@@ -26,7 +26,7 @@ Ce projet vise à fournir une version personnalisée de Windows 10 22H2 & [Atlas
 
 ## /!\ Warning /!\
 - **Auto mise à jour des drivers via Windeck Utility**: L'auto updater n'est pas officielement opérationnel , il est préinstaller mais soumis a de nombreux bug.
-
+***
 ## Installation
 
 Pour installer ce Custom OS, veuillez suivre les étapes suivantes :
@@ -34,11 +34,11 @@ Pour installer ce Custom OS, veuillez suivre les étapes suivantes :
 1. Téléchargez le fichier ISO depuis la page de [téléchargement](https://drive.google.com/file/d/1EB5ak6Wjdz2FL1ix5incIYI6HHjHJVMn/view?usp=share_link).
 2. Créez une clé USB bootable en utilisant un outil tel que [Rufus](https://rufus.ie/).
 3. Démarrez votre Steam Deck à partir de la clé USB et suivez les instructions à l'écran pour l'installation.
-
+***
 ## Documentation supplémentaire
 
 Pour plus d'informations sur l'utilisation et la configuration du Custom OS, veuillez consulter notre [documentation complète](https://github.com/TakiiOS/WindeckOS/issues).
-
+***
 ## Signaler un Bug
 
 Si vous rencontrez des problèmes ou des bogues lors de l'utilisation de ce Custom OS, veuillez les signaler en créant une nouvelle [issue](https://github.com/TakiiOS/WindeckOS/issues) sur notre dépôt GitHub. Assurez-vous de fournir autant d'informations détaillées que possible, y compris les étapes pour reproduire le bug, le comportement attendu et le comportement observé.
@@ -46,11 +46,11 @@ Si vous rencontrez des problèmes ou des bogues lors de l'utilisation de ce Cust
 Nous apprécions vos retours et travaillerons activement à la résolution des problèmes signalés. (Je ne répondrais jamais via discord pour les bugs)
 
 [Signaler un Bug](https://github.com/TakiiOS/WindeckOS/issues)
-
+***
 ## Contribution
 
 Si vous souhaitez contribuer à ce projet, veuillez me contacter par discord : .Kaws. .
-
+***
 ## Avertissement
 
 Ce Custom OS est fourni tel quel, sans aucune garantie. Assurez-vous de sauvegarder toutes vos données importantes avant l'installation.
