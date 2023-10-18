@@ -1,5 +1,5 @@
 # [![](https://cdn.discordapp.com/attachments/1120067739726381127/1164100853167308841/pngwing.com.png?ex=6541fc67&is=652f8767&hm=f68e9bb084528566872611aacb5c5330833721535c27cc406549de90178c66e1&)](https://puissancesteamdeck.com/) WindeckOS 10 Alpha
-
+***
 ## Overview
 
 Ce projet vise à fournir une version personnalisée de Windows 10 22H2 & [Atlas](https://github.com/Atlas-OS/Atlas) optimisée spécifiquement pour l'utilisation avec le Steam Deck. Le système est livré avec plusieurs fonctionnalités et améliorations pour offrir une expérience de jeu optimale.
@@ -23,7 +23,7 @@ Ce projet vise à fournir une version personnalisée de Windows 10 22H2 & [Atlas
 - **Réduction des processus**: Les processus inutiles sont minimisés pour libérer des ressources système.
 
 - **Stabilité en jeu**: Des ajustements sont apportés pour garantir une expérience de jeu stable et fluide.
-
+***
 ## /!\ Warning /!\
 - **Auto mise à jour des drivers via Windeck Utility**: L'auto updater n'est pas officielement opérationnel , il est préinstaller mais soumis a de nombreux bug.
 ***
