@@ -33,7 +33,7 @@ Ce projet vise à fournir une version personnalisée de Windows 10 22H2 & [Atlas
 
 Pour installer ce Custom OS, veuillez suivre les étapes suivantes :
 
-1. Téléchargez le fichier ISO depuis la page de [téléchargement](https://drive.google.com/file/d/1EB5ak6Wjdz2FL1ix5incIYI6HHjHJVMn/view?usp=share_link).
+1. Téléchargez le fichier ISO depuis la page de [téléchargement](https://drive.google.com/file/d/1EB5ak6Wjdz2FL1ix5incIYI6HHjHJVMn/view?usp=sharing).
 2. Créez une clé USB bootable en utilisant un outil tel que [Rufus](https://rufus.ie/).
 3. Démarrez votre Steam Deck à partir de la clé USB et suivez les instructions à l'écran pour l'installation.
 ***
