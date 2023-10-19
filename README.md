@@ -28,6 +28,8 @@ Ce projet vise à fournir une version personnalisée de Windows 10 22H2 & [Atlas
 - **Auto mise à jour des drivers via Windeck Utility**: L'auto updater n'est pas officielement opérationnel , il est préinstaller mais soumis a de nombreux bug.
 
 - **Brave not reset**: Un oublie du reset de Brave OOPSIE
+
+- **Folder Drivers**: J'ai laissé volontairement le dossier drivers si vous avez des soucis , sera retirer a la 1.0.
 ***
 ## Installation
 
@@ -39,6 +41,7 @@ Pour installer ce Custom OS, veuillez suivre les étapes suivantes :
 ***
 ## Patch Note 0.4a
 - **Clavier visuel** ce lance correctement en mode de saisie
+- **Brave** Enfin Brave remis a Zero
 ***
 ## Documentation supplémentaire
 
