@@ -38,10 +38,10 @@ Pour installer ce Custom OS, veuillez suivre les étapes suivantes :
 3. Démarrez votre Steam Deck à partir de la clé USB et suivez les instructions à l'écran pour l'installation.
 ***
 ## Patch Note 0.4a
-- **Clavier visuel** ce lance correctement en mode de saisie
-- **Brave** Enfin Brave remis a Zero
-- **SteamBigPicture** Lancement Automatique de steam bigpicture au premier lancement de WindeckOS
-- **Docking** Patch du sons en mode dock
+- **Clavier visuel**: Ce lance correctement en mode de saisie sans clavier
+- **Brave**: Enfin Brave remis a Zero
+- **SteamBigPicture**: Lancement Automatique de steam bigpicture au premier lancement de WindeckOS
+- **Docking**: Patch du sons en mode dock
 ***
 ## Documentation supplémentaire
 
