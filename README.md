@@ -43,10 +43,6 @@ Pour installer ce Custom OS, veuillez suivre les étapes suivantes :
 - **SteamBigPicture**: Lancement Automatique de steam bigpicture au premier lancement de WindeckOS
 - **Docking**: Patch du sons en mode dock
 ***
-## Documentation supplémentaire
-
-Pour plus d'informations sur l'utilisation et la configuration du Custom OS, veuillez consulter notre [documentation complète](https://github.com/TakiiOS/WindeckOS/issues).
-***
 ## Signaler un Bug
 
 Si vous rencontrez des problèmes ou des bogues lors de l'utilisation de ce Custom OS, veuillez les signaler en créant une nouvelle [issue](https://github.com/TakiiOS/WindeckOS/issues) sur notre dépôt GitHub. Assurez-vous de fournir autant d'informations détaillées que possible, y compris les étapes pour reproduire le bug, le comportement attendu et le comportement observé.
